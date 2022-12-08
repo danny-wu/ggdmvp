@@ -1,4 +1,4 @@
-certifi==2018.4.16
+certifi==2022.12.7
 oogle-api-python-client==1.7.3
 google-auth==1.5.0
 google-auth-httplib2==0.0.3
